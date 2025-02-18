@@ -12,7 +12,7 @@
     <!-- Search Bar -->
     <div class="hidden md:flex flex-1 max-w-[780px] header-search">
       <input type="search" placeholder="Search for a product"
-             class="w-full px-4 py-2 h-[45px] rounded-[3px] bg-white text-[#b8b8b8] focus:outline-none focus:ring-2 focus:ring-blue-500">
+             class="w-full px-4 py-2 h-[45px] rounded-[3px] bg-[#F0F1F2] text-[#b8b8b8] focus:outline-none focus:ring-2 focus:ring-blue-500">
     </div>
 
     <!-- User & Cart -->

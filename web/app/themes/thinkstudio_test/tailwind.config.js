@@ -15,7 +15,6 @@ const config = {
         padding: '1rem',
         screens: {
           xl: '1200px',
-          '2xl': '1600px',
         },
       },
       fontSize: {
